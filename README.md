@@ -1,5 +1,3 @@
-### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
-
 ## Hi there 👋 I'm Rama!
 
 Welcome to my GitHub profile! I'm a Computer Science student currently studying at [42Amman](https://42amman.jo). I'm still exploring, learning, and building my way through the world of programming and development.
