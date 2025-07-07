@@ -22,3 +22,8 @@ Welcome to my GitHub profile! I'm a Computer Science student currently studying 
 ---
 
 Thanks for stopping by! Feel free to check out my repositories or reach out 🙂
+
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/ramasham/count.svg" alt="Visitor's Count" />
+</div>
