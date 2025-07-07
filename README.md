@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a Computer Science student at **WISE Universit
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,git" />
-  <img src="https://skillicons.dev/icons?i=linux,vim,unix" />
+  <img src="https://skillicons.dev/icons?i=linux,vim" />
   <img src="https://img.shields.io/badge/Makefile-000?style=for-the-badge&logo=gnubash&logoColor=white" alt="Makefile" />
 </p>
 
