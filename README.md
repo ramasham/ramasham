@@ -53,8 +53,3 @@ Welcome to my GitHub profile! I'm a Computer Science student at **WISE Universit
 - Email: alshamasnehrama@gmail.com
 
 ---
-
-<div align="center"> 
-  <p>Visitor Count</p>
-  <img src="https://profile-counter.glitch.me/ramasham/count.svg" alt="Visitor's Count" />
-</div>
