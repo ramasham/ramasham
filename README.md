@@ -48,8 +48,18 @@ Welcome to my GitHub profile! I'm a Computer Science student at **WISE Universit
 
 ### 📫 Let's Connect
 
-- GitHub: [github.com/ramasham](https://github.com/ramasham)  
-- LinkedIn: [linkedin.com/in/ramasham](https://www.linkedin.com/in/ramasham)  
-- Email: alshamasnehrama@gmail.com
+<p align="center">
+  <a href="https://github.com/ramasham" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ramasham" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:alshamasnehrama@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40" />
+  </a>
+</p>
 
 ---
