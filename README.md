@@ -35,6 +35,19 @@ Welcome to my GitHub profile! I'm a Computer Science student currently studying 
 
 <hr>
 
+---
+## 🐍 My Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ramasham/ramasham/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ramasham/ramasham/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/ramasham/ramasham/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+---
+
 ### 📫 Let's Connect
 
 - GitHub: https://github.com/ramasham
