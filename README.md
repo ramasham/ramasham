@@ -61,5 +61,3 @@ Welcome to my GitHub profile! I'm a Computer Science student at **WISE Universit
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40" />
   </a>
 </p>
-
----
