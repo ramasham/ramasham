@@ -25,11 +25,13 @@ Welcome to my GitHub profile! I'm a Computer Science student currently studying 
 
 <br>
 
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=chijiokeokorji&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="ChijiokeOkorji's GitHub Stats" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=chijiokeokorji&theme=transparent&count_private=true&border_radius=10&locale=en" alt="ChijiokeOkorji's" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=chijiokeokorji&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="ChijiokeOkorji's Most Used Languages" />
+<div align="center">
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=ramasham&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Rama's GitHub Stats" />
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=ramasham&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Rama's GitHub Streak" />
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramasham&theme=transparent&layout=donut&hide=css,html&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Rama's Most Used Languages" />
 </div>
+
+---
 
 <hr>
 
