@@ -106,4 +106,4 @@ It strengthened my skills in:
 
 ## ✨ Motto
 
-> Build deeply. Learn relentlessly. Stay curious.
+> Strong foundations make learning anything faster and deeper
