@@ -18,7 +18,7 @@
 - 🎓 **42 Graduate**
 - 🏫 **Computer Science student**
 - 💻 Interested in **backend development**, **systems programming**, and **problem solving**
--  Good understanding of **networking**, **sockets**, and backend fundamentals
+- 🌐 Good understanding of **networking**, **sockets**, and backend fundamentals
 - 🐧 Confident working in **Linux-based environments** and command-line workflows
 - 🛠️ Passionate about building software that blends **systems programming**, **networking**, **databases**, and **backend engineering**
 - 🌱 Always learning through real projects, collaboration, and hands-on practice
