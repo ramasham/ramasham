@@ -90,6 +90,9 @@ It strengthened my skills in:
   <a href="mailto:alshamasnehrama@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-Say%20Hello-FBCFE8?style=for-the-badge&logo=gmail&logoColor=9D174D" alt="Email" />
   </a>
+  <a href="https://www.ramasham.me/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-D9F99D?style=for-the-badge&logo=googlechrome&logoColor=365314" alt="Portfolio" />
+  </a>
 </p>
 
 ---
