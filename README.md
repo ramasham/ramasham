@@ -25,41 +25,13 @@
 
 ---
 
-## 🚀 Strengths
-
-- Strong foundation in **C** and **C++**
-- Experience with **system calls**, **processes**, **signals**, and **memory management**
-- Good understanding of **networking**, **sockets**, and backend fundamentals
-- Backend development with **ASP.NET**
-- Comfortable with **SQL databases** and data modeling
-- Familiar with **Git**, **Docker**, **Linux**, **Vim**, and modern developer workflows
-- Built through the **42 learning model**, which strengthened my problem-solving, adaptability, collaboration, and self-learning skills
-
----
-
-## 🧠 What 42 Built In Me
-
-My journey at **42** shaped the way I think as a developer through project-based learning, peer collaboration, and solving real engineering problems.
-
-It strengthened my skills in:
-
-- Algorithms and problem solving
-- Low-level programming
-- System programming
-- Debugging
-- Team collaboration
-- Code review
-- Independent learning
-- Writing clean and structured code
-
----
 ## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,dotnet,docker,git,linux,vim,vscode,postgres,mysql,postman,bash" />
 </p>
 
-## 🚀 Core Strengths
+## 
 
 <p align="center">
   <img src="https://img.shields.io/badge/System%20Calls-DDD6FE?style=for-the-badge&logo=linux&logoColor=4C1D95" />
